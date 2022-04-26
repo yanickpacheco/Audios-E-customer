@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Audios E-customer", "Audios E-customer\Audios E-customer.dtproj", "{56E0AB7B-E3FD-4566-A9A4-FE63E9B5E714}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Procesos CLC", "Procesos CLC\Procesos CLC.dtproj", "{F39953C6-1413-4A4D-BFBB-958108DB6957}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Cencosud", "Cencosud\Cencosud.dtproj", "{F29D1D81-0521-42B9-AA8E-BF9F7FDE1C32}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Procesos Clent", "Procesos Clent\Procesos Clent.dtproj", "{729463AB-0F22-49B6-AB8F-1E4EFD0A289A}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Bice Entel", "Bice Entel\Bice Entel.dtproj", "{38B97F76-B2AF-49FD-B61B-C67B1EBEFEA1}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SOSAFE", "SOSAFE\SOSAFE.dtproj", "{6FDE2DC7-BF84-4CC4-840E-3BE0EDD84EC4}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "BciCorona", "BciCorona\BciCorona.dtproj", "{6C47249F-B78D-4FF5-9F66-C7409A71D968}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Metlife", "Metlife\Metlife.dtproj", "{D5ED541F-6513-4503-89AB-F30B1A760C04}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Clinicas", "Clinicas\Clinicas.dtproj", "{B1867D3F-20D4-42DE-9383-AB0B5CE7024B}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Scotiacardif", "ScotiaCardif\Scotiacardif.dtproj", "{D60D9A2E-600C-4844-9B8A-B1B52D0435BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		asdf|Default = asdf|Default
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56E0AB7B-E3FD-4566-A9A4-FE63E9B5E714}.asdf|Default.ActiveCfg = asdf
+		{56E0AB7B-E3FD-4566-A9A4-FE63E9B5E714}.asdf|Default.Build.0 = asdf
+		{56E0AB7B-E3FD-4566-A9A4-FE63E9B5E714}.Development|Default.ActiveCfg = Development
+		{56E0AB7B-E3FD-4566-A9A4-FE63E9B5E714}.Development|Default.Build.0 = Development
+		{F39953C6-1413-4A4D-BFBB-958108DB6957}.asdf|Default.ActiveCfg = Development
+		{F39953C6-1413-4A4D-BFBB-958108DB6957}.asdf|Default.Build.0 = Development
+		{F39953C6-1413-4A4D-BFBB-958108DB6957}.Development|Default.ActiveCfg = Development
+		{F39953C6-1413-4A4D-BFBB-958108DB6957}.Development|Default.Build.0 = Development
+		{F29D1D81-0521-42B9-AA8E-BF9F7FDE1C32}.asdf|Default.ActiveCfg = Development
+		{F29D1D81-0521-42B9-AA8E-BF9F7FDE1C32}.asdf|Default.Build.0 = Development
+		{F29D1D81-0521-42B9-AA8E-BF9F7FDE1C32}.Development|Default.ActiveCfg = Development
+		{F29D1D81-0521-42B9-AA8E-BF9F7FDE1C32}.Development|Default.Build.0 = Development
+		{729463AB-0F22-49B6-AB8F-1E4EFD0A289A}.asdf|Default.ActiveCfg = Development
+		{729463AB-0F22-49B6-AB8F-1E4EFD0A289A}.asdf|Default.Build.0 = Development
+		{729463AB-0F22-49B6-AB8F-1E4EFD0A289A}.Development|Default.ActiveCfg = Development
+		{729463AB-0F22-49B6-AB8F-1E4EFD0A289A}.Development|Default.Build.0 = Development
+		{38B97F76-B2AF-49FD-B61B-C67B1EBEFEA1}.asdf|Default.ActiveCfg = Development
+		{38B97F76-B2AF-49FD-B61B-C67B1EBEFEA1}.asdf|Default.Build.0 = Development
+		{38B97F76-B2AF-49FD-B61B-C67B1EBEFEA1}.Development|Default.ActiveCfg = Development
+		{38B97F76-B2AF-49FD-B61B-C67B1EBEFEA1}.Development|Default.Build.0 = Development
+		{6FDE2DC7-BF84-4CC4-840E-3BE0EDD84EC4}.asdf|Default.ActiveCfg = Development
+		{6FDE2DC7-BF84-4CC4-840E-3BE0EDD84EC4}.asdf|Default.Build.0 = Development
+		{6FDE2DC7-BF84-4CC4-840E-3BE0EDD84EC4}.Development|Default.ActiveCfg = Development
+		{6FDE2DC7-BF84-4CC4-840E-3BE0EDD84EC4}.Development|Default.Build.0 = Development
+		{6C47249F-B78D-4FF5-9F66-C7409A71D968}.asdf|Default.ActiveCfg = Development
+		{6C47249F-B78D-4FF5-9F66-C7409A71D968}.asdf|Default.Build.0 = Development
+		{6C47249F-B78D-4FF5-9F66-C7409A71D968}.Development|Default.ActiveCfg = Development
+		{6C47249F-B78D-4FF5-9F66-C7409A71D968}.Development|Default.Build.0 = Development
+		{D5ED541F-6513-4503-89AB-F30B1A760C04}.asdf|Default.ActiveCfg = Development
+		{D5ED541F-6513-4503-89AB-F30B1A760C04}.asdf|Default.Build.0 = Development
+		{D5ED541F-6513-4503-89AB-F30B1A760C04}.Development|Default.ActiveCfg = Development
+		{D5ED541F-6513-4503-89AB-F30B1A760C04}.Development|Default.Build.0 = Development
+		{B1867D3F-20D4-42DE-9383-AB0B5CE7024B}.asdf|Default.ActiveCfg = Development
+		{B1867D3F-20D4-42DE-9383-AB0B5CE7024B}.asdf|Default.Build.0 = Development
+		{B1867D3F-20D4-42DE-9383-AB0B5CE7024B}.Development|Default.ActiveCfg = Development
+		{B1867D3F-20D4-42DE-9383-AB0B5CE7024B}.Development|Default.Build.0 = Development
+		{D60D9A2E-600C-4844-9B8A-B1B52D0435BD}.asdf|Default.ActiveCfg = Development
+		{D60D9A2E-600C-4844-9B8A-B1B52D0435BD}.asdf|Default.Build.0 = Development
+		{D60D9A2E-600C-4844-9B8A-B1B52D0435BD}.Development|Default.ActiveCfg = Development
+		{D60D9A2E-600C-4844-9B8A-B1B52D0435BD}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00AA74FE-4D9C-4945-8E24-589491DF3D66}
+	EndGlobalSection
+EndGlobal
